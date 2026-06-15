@@ -1,1 +1,1 @@
-# COPD_azith_suppl_material
+# COPD Azithromycin paper Supplementary material
