@@ -1,453 +1,207 @@
-"READ_CODE","DESCRIPTION","VERSION"
-y00BV,Taumasthman tablet ...  ... ,"3"
-YMAgd,[X]F hst/asthm+o chr lw resp d ... [X]Family history/asthma+other chronic lower resp diseases ... [X]Family history of asthma and other chronic lower respiratory diseases,"3"
-YMJv2,Asthma monitor phone invite ...  ... ,"3"
-YMLSR,Late-onset asthma (LOA) ...  ... ,"3"
-Yaw0b,No asthma trigger ident by sub ... No asthma trigger identified by subject ... ,"3"
-YE0Te,Extrinsic asthma - atopy (& ++ ... Extrinsic asthma - atopy (& pollen) ... ,"3"
-Yaudt,Asthma never caus night symptm ... Asthma never causes night symptoms ... ,"3"
-YMIBF,[X]Adv react theophyl - asthma ... [X] Adverse reaction to theophylline - asthma ... ,"3"
-Yawtp,Childhood Asthma Control Test ...  ... ,"3"
-YaW15,Asthma control step 3 ...  ... ,"3"
-Y1085,Extrinsic asthma - no status ... Extrinsic asthma without status asthmaticus ... ,"3"
-Y108O,ASA triad - Asp-sens asthma tr ... ASA - Aspirin-sensitive asthma triad ... ,"3"
-Y108P,Occupational asthma ...  ... ,"3"
-Y108V,Sulphite-induced asthma ...  ... ,"3"
-Y108e,Asthmatic bronchitis ...  ... ,"3"
-YMH4i,Atopic asthma ...  ... ,"3"
-Yac9n,Further asthma - drug preventn ... Further asthma - drug prevention ... ,"3"
-YaleJ,Asthma monitoring by nurse ...  ... ,"3"
-YauN7,Asth limit activ 1 - 2 time wk ... Asthma limits activities 1 to 2 times per week ... ,"3"
-Yaw0M,Chron asthm w fix airflw obstr ... Chronic asthma with fixed airflow obstruction ... ,"3"
-YMBsj,"[X]Antiasthmatics adv eff,NEC ... [X]Antiasthmats caus adverse effects in therapeut use, NEC ... [X]Antiasthmatics causing adverse effects in therapeutic use, not elsewhere classified","3"
-Yatk1,Heal educ - struct asthma disc ... Health education - structured asthma discussion ... ,"3"
-Yatk2,Heal educ - struc foc ast disc ... Health education - structured patient focused asthma discuss ... Health education - structured patient focused asthma discussion,"3"
-Yayzs,Acute severe exacerbatn asthma ... Acute severe exacerbation of asthma ... ,"3"
-YamdP,Asthma clin management plan ... Asthma clinical management plan ... ,"3"
-YaqOV,RCP asthma assessment ... Royal College of Physicians asthma assessment ... ,"3"
-Y7Dft,Asthma society member ...  ... ,"3"
-YaoUx,Nocturnal asthma ...  ... ,"3"
-YatwD,Asthma review RCP 3 questions ... Asthma review using Roy Colleg of Physicians three questions ... Asthma review using Royal College of Physicians three questions,"3"
-YaaCY,Asthma prophylaxis used ...  ... ,"3"
-"1O2..",Asthma confirmed ...  ... ,"2"
-YaaR3,Recent asthma management ...  ... ,"3"
-Yar66,Asthma trigger - pollen ...  ... ,"3"
-YaY1m,Asthma severity ...  ... ,"3"
-Y7AQK,Attends asthma monitoring ...  ... ,"3"
-Y7AQL,Refuses asthma monitoring ...  ... ,"3"
-Y7AQN,Asthma monitor 1st letter ... Asthma monitoring call first letter ... ,"3"
-Y7AQT,Asthma monitoring check done ...  ... ,"3"
-YatH0,Mini asthma QOL questionnaire ... Mini asthma quality of life questionnaire ... ,"3"
-YatH3,Under care asthma spclst nurse ... Under care of asthma specialist nurse ... ,"3"
-YaxVg,Review of pt at risk of asthma ... Review of patient at risk of asthma ... ,"3"
-Yay1T,Asthma monitrng SMS 3rd invit ... Asthma monitoring SMS text message 3rd invitation ... Asthma monitoring SMS (short message service) text message third invitation,"3"
-YaxVi,At risk of asthma ...  ... ,"3"
-YE0T4,(Hay fever + asthma) or (ext++ ... (Hay fever + asthma) or (extr asthma without status asthmat) ... (Hay fever with asthma) or (extrinsic asthma without status asthmaticus),"3"
-YE0T5,Extrins asthma with: [asthma++ ... Extrins asthma with: [asthma attack] or [status asthmaticus] ... Extrinsic asthma with: [asthma attack] or [status asthmaticus],"3"
-Yalid,Asthma trigger ...  ... ,"3"
-Y107x,Late onset asthma ...  ... ,"3"
-Y109x,Wood asthma ...  ... ,"3"
-YadS4,Exercise-induced asthma ...  ... ,"3"
-YMK7F,Sequoiosis (red-cedar asthma) ...  ... ,"3"
-Yar65,Asthma trigger - exercise ...  ... ,"3"
-Y73Qe,AR - antiasthmatics ... Adverse reaction to antiasthmatics ... ,"3"
-ZV175,[V]FH - Asthma ... [V]Family history of asthma ... ,"2"
-"661M1",Asthma self-manage plan agreed ... Asthma self-management plan agreed ... ,"2"
-"66Yz5",Telehealth asthma monitoring ...  ... ,"2"
-c74..,NEDOCROMIL SODIUM [ASTHMA] ...  ... ,"2"
-H33..,Asthma ...  ... ,"2"
-H330z,Extrinsic asthma NOS ...  ... ,"2"
-H333.,Acute exacerbation of asthma ...  ... ,"2"
-H334.,Brittle asthma ...  ... ,"2"
-H33z0,Status asthmaticus NOS ...  ... ,"2"
-H33z2,Late-onset asthma ...  ... ,"2"
-"13Y4.",Asthma society member ...  ... ,"2"
-"663d.",Emerg asthm adm since lst appt ... Emergency asthma admission since last appointment ... ,"2"
-"663e.",Asthma restricts exercise ...  ... ,"2"
-"663N0",Asthma causing night waking ...  ... ,"2"
-"663P.",Asthma limiting activities ...  ... ,"2"
-"663P0",Asthma limit act 1-2 time mth ... Asthma limits activities 1 to 2 times per month ... ,"2"
-"663P1",Asth limit activ 1 - 2 time wk ... Asthma limits activities 1 to 2 times per week ... ,"2"
-"663t.",Asthma day symp 1-2 per mth ... Asthma causes daytime symptoms 1 to 2 times per month ... ,"2"
-"663u.",Asthma day symp 1-2 per week ... Asthma causes daytime symptoms 1 to 2 times per week ... ,"2"
-"663v.",Asthma daytime symps most days ... Asthma causes daytime symptoms most days ... ,"2"
-"663V0",Occasional asthma ...  ... ,"2"
-"663W.",Asthma prophylaxis used ... Asthma prophylactic medication used ... ,"2"
-"66Y9.",Step up chnge asthm managmt pl ... Step up change in asthma management plan ... ,"2"
-"66YE.",Asthma monitoring due ...  ... ,"2"
-"66YJ.",Asthma annual review ...  ... ,"2"
-"8HTT.",Referral to asthma clinic ...  ... ,"2"
-"9OJ2.",Refuses asthma monitoring ...  ... ,"2"
-"9OJ4.",Asthma monitor 1st letter ...  ... ,"2"
-"9OJB2",Asthma monitrng SMS 3rd invit ... Asthma monitoring SMS text message 3rd invitation ... Asthma monitoring SMS (short message service) text message third invitation,"2"
-TJF7.,AR - antiasthmatics ... Adverse reaction to antiasthmatics ... ,"2"
-"8B3j.",Asthma medication review ...  ... ,"2"
-"388t.",RCP asthma assessment ... Royal College of Physicians asthma assessment ... ,"2"
-"173c.",Occupational asthma ...  ... ,"2"
-"178..",Asthma trigger ...  ... ,"2"
-"1781.",Asthma trigger - pollen ...  ... ,"2"
-"1J70.",Suspected asthma ...  ... ,"2"
-Yaxjr,Asthma-COPD overlap syndrome ... Asthma-chronic obstructive pulmonary disease overlap syndrom ... ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,"3"
-y00Bx,Asthma prophylaxis ...  ... ,"3"
-Yakmd,Asthma day symp 1-2 per mth ... Asthma causes daytime symptoms 1 to 2 times per month ... ,"3"
-Yakmf,Asthma daytime symps most days ... Asthma causes daytime symptoms most days ... ,"3"
-Yakmh,Asthm limits walk hills/stairs ... Asthma limits walking up hills or stairs ... ,"3"
-YamDq,Aspirin-induced asthma ...  ... ,"3"
-y01tJ,Nedocromil sodium [asthma] ...  ... ,"3"
-YMKOL,AR - theophylline (asthma) ... Adverse reaction to theophylline (asthma) ... ,"3"
-Y7A05,Asthma disturbing sleep ...  ... ,"3"
-Yaks4,Change in asthma managemt plan ...  ... ,"3"
-Yaksp,Asthma monitoring due ...  ... ,"3"
-Yan2F,Referral to asthma clinic ...  ... ,"3"
-YaY9k,Acute exacerbation of asthma ...  ... ,"3"
-YMK5x,Asthma - cardiac ...  ... ,"3"
-Yayzv,Life thrtng acut excbtn asthma ... Life threatening acute exacerbation of asthma ... ,"3"
-Yaxpe,Telehealth asthma monitoring ...  ... ,"3"
-YalLK,Suspected asthma ...  ... ,"3"
-YaoOQ,Asthma trigger - damp ...  ... ,"3"
-Yauuy,Asthma self-manage plan agreed ... Asthma self-management plan agreed ... ,"3"
-YamdQ,Asthma clin management plan ...  ... ,"3"
-YMJuz,Asthma monitor 2nd letter ...  ... ,"3"
-YatO8,ACQ - Asthma control questionr ... ACQ - Asthma control questionnaire ... ,"3"
-Y7AQS,Asthma monitoring deleted ...  ... ,"3"
-Y7AQV,Asthma monitoring admin.NOS ...  ... ,"3"
-Yal1g,Absent work/schl due to asthma ...  ... ,"3"
-Yar67,Asthma trigger - tobacco smoke ...  ... ,"3"
-Y1084,Allergic asthma ...  ... ,"3"
-Y108E,Pollen asthma ...  ... ,"3"
-Y108G,Non-allergic asthma ...  ... ,"3"
-Y108K,Intrinsic asthma + attack ... Intrinsic asthma with asthma attack ... ,"3"
-Y108R,Detergent asthma ...  ... ,"3"
-Y108S,Baker's asthma ...  ... ,"3"
-Y108l,Acute severe asthma ...  ... ,"3"
-Ya3Xw,EIA - Exercise-induced asthma ...  ... ,"3"
-YM9hD,Asthma management plan given ...  ... ,"3"
-YaknY,Asthma never causes day symps ...  ... ,"3"
-YaknZ,Asthma day symp 1-2 per week ...  ... ,"3"
-Ya3Lr,Exacerbation of asthma ...  ... ,"3"
-Y72vy,Poison-herbal asthma mixture ... Poisoning by herbal asthma mixture ... ,"3"
-Yam1T,Except asthma qual ind: Pt uns ... Excepted from asthma quality indicators: Patient unsuitable ... ,"3"
-Yam1U,Except asthma qual ind: Pt uns ...  ... ,"3"
-Yam1W,Excep asthma qual ind: Inf dis ...  ... ,"3"
-Y107w,Childhood asthma ...  ... ,"3"
-YaoNU,Asthma trigger - seasonal ...  ... ,"3"
-Yay1S,Asthma monitrng SMS 2nd invit ... Asthma monitoring SMS text message 2nd invitation ... Asthma monitoring SMS (short message service) text message second invitation,"3"
-Yav2F,Asthma trigger - wind ...  ... ,"3"
-Y79X4,Asthma monitoring ...  ... ,"3"
-YaW13,Asthma control step 1 ...  ... ,"3"
-YaW16,Asthma control step 4 ...  ... ,"3"
-Yaldm,Health education - asthma ...  ... ,"3"
-YaleK,Asthma monitoring by doctor ...  ... ,"3"
-YMH4l,Asthma attack NOS ...  ... ,"3"
-YauN4,Asthma cause sympt most nights ... Asthma causes symptoms most nights ... ,"3"
-YauN6,Asthma limit act 1-2 time mth ... Asthma limits activities 1 to 2 times per month ... ,"3"
-Y73Qk,AR - antiasthmatic NOS ... Adverse reaction to antiasthmatic NOS ... ,"3"
-YaVzG,Asthma control steps ...  ... ,"3"
-YaXzJ,Asthma leaflet given ...  ... ,"3"
-YMLE1,FH: asthma ...  ... ,"3"
-Yawbn,Asthma managemt plan declined ... Asthma management plan declined ... ,"3"
-YaY1n,Occasional asthma ...  ... ,"3"
-YE0T6,(Intrinsic asthma) or (late ++ ... (Intrinsic asthma) or (late onset asthma) ... ,"3"
-YE0T8,(Severe asthma attack) or (s++ ... (Severe asthma attack) or (status asthmaticus NOS) ... ,"3"
-"66YK.",Asthma follow-up ...  ... ,"2"
-"66Yq.",Asthma night symptom 1 to 2 wk ... Asthma causes night time symptoms 1 to 2 times per week ... ,"2"
-"66YR.",Asthma monitoring by doctor ...  ... ,"2"
-"66YZ.",Does not have asthma man plan ... Does not have asthma management plan ... ,"2"
-"66Yz0",Asthma managemt plan declined ... Asthma management plan declined ... ,"2"
-H3120,Chronic asthmatic bronchitis ...  ... ,"2"
-H330.,Extrinsic (atopic) asthma ...  ... ,"2"
-H3310,Intrinsic asthma - no status ... Intrinsic asthma without status asthmaticus ... ,"2"
-H3311,Intrinsic asthma + status ... Intrinsic asthma with status asthmaticus ... ,"2"
-H335.,Chron asthm w fix airflw obstr ... Chronic asthma with fixed airflow obstruction ... ,"2"
-TJF7z,AR - antiasthmatic NOS ... Adverse reaction to antiasthmatic NOS ... ,"2"
-"122C0",No family history of asthma ...  ... ,"2"
-"8794.",Asthma control step 1 ...  ... ,"2"
-"9hA..",Except report: asthma qual ind ... Exception reporting: asthma quality indicators ... ,"2"
-"9hA2.",Excep asthma qual ind: Inf dis ... Excepted from asthma quality indicators: Informed dissent ... ,"2"
-"663e0",Asthma sometime restr exercise ... Asthma sometimes restricts exercise ... ,"2"
-"663e1",Asthma severely restr exercise ... Asthma severely restricts exercise ... ,"2"
-"663f.",Asthma never restrcts exercise ... Asthma never restricts exercise ... ,"2"
-"663j.",Asthma - currently active ...  ... ,"2"
-"663N.",Asthma disturbing sleep ...  ... ,"2"
-"663O0",Asthma never disturbs sleep ...  ... ,"2"
-"663V.",Asthma severity ...  ... ,"2"
-"663V1",Mild asthma ...  ... ,"2"
-"66YA.",Step down chnge asthm manag pl ... Step down change in asthma management plan ... ,"2"
-"66YC.",Absent work/schl due to asthma ... Absent from work or school due to asthma ... ,"2"
-"9Q21.",Patient in asthma study ...  ... ,"2"
-"173A.",Exercise induced asthma ...  ... ,"2"
-"1785.",Asthma trigger - damp ...  ... ,"2"
-"9OJ1.",Attends asthma monitoring ...  ... ,"2"
-"9OJ6.",Asthma monitor 3rd letter ...  ... ,"2"
-"9OJB0",Asthma monitrng SMS 1st invit ... Asthma monitoring SMS text message 1st invitation ... Asthma monitoring SMS (short message service) text message first invitation,"2"
-"9NI8.",Asthma outreach clinic ...  ... ,"2"
-U60F6,"[X]Antiasthmatics adv eff,NEC ... [X]Antiasthmats caus adverse effects in therapeut use, NEC ... [X]Antiasthmatics causing adverse effects in therapeutic use, not elsewhere classified","2"
-YaaR6,Emerg asthm adm since lst appt ... Emergency asthma admission since last appointment ... ,"3"
-YaS7e,Intent pois herbal asthma mix ... Intentional poisoning by herbal asthma mixture ... ,"3"
-Yar68,Asthma trigger - warm air ...  ... ,"3"
-YaW14,Asthma control step 2 ...  ... ,"3"
-YaW1r,Asthma control step 0 ...  ... ,"3"
-Yaleb,Asthma confirmed ...  ... ,"3"
-Y72yw,Antiasthmatic poisoning ...  ... ,"3"
-Y72z0,Antiasthmatic poisoning NOS ...  ... ,"3"
-YaknX,Asthma night symp 1-2 per mth ...  ... ,"3"
-Yakna,Asthma daytime symps most days ...  ... ,"3"
-YakrC,Step up chnge asthm managmt pl ... Step up change in asthma management plan ... ,"3"
-Yan3b,Does not have asthma man plan ... Does not have asthma management plan ... ,"3"
-Yan3c,Does not have asthma man plan ...  ... ,"3"
-YE0T9,Asthma attack (& NOS) ...  ... ,"3"
-YE0Tg,Asthma: [NOS] or [attack] ...  ... ,"3"
-Yasr7,Asthma control test ...  ... ,"3"
-YE1m9,Asthma administration: [moni++ ... Asthma administration: [monitoring] or [clinic] ... ,"3"
-YE1mA,Asthma monitored (& check do++ ... Asthma monitored (& check done) ... ,"3"
-YauN2,Asthma night symptom 1 to 2 wk ... Asthma causes night time symptoms 1 to 2 times per week ... ,"3"
-Y7AQI,Asthma monitoring admin. ...  ... ,"3"
-Y7AQP,Asthma monitor 3rd letter ... Asthma monitoring call third letter ... ,"3"
-Yam0Y,Except report: asthma qual ind ...  ... ,"3"
-Yakgq,Asth treat compliance unsatisf ... Asthma treatment compliance unsatisfactory ... ,"3"
-Yakgr,Asthma daytime symptoms ...  ... ,"3"
-Yam1V,Excep asthma qual ind: Inf dis ... Excepted from asthma quality indicators: Informed dissent ... ,"3"
-Yae2E,Asthma - currently dormant ...  ... ,"3"
-Y7A06,Asthma not disturbing sleep ...  ... ,"3"
-Y7A08,Asthma not limiting activities ...  ... ,"3"
-Ya050,H/O: asthma ...  ... ,"3"
-YatGz,Asthma control questionnaire ...  ... ,"3"
-Yay77,Sevr asthma exacer risk assess ... Severe asthma exacerbation risk assessment ... ,"3"
-YaxVZ,Asthma monitrng invitatn email ... Asthma monitoring invitation email ... ,"3"
-Yab9V,Asthma causing night waking ...  ... ,"3"
-Yab9c,Asthma disturbs sleep freqntly ... Asthma disturbs sleep frequently ... ,"3"
-Yab9o,Asthma sometime restr exercise ... Asthma sometimes restricts exercise ... ,"3"
-Yab9q,Asthma severely restr exercise ... Asthma severely restricts exercise ... ,"3"
-YMJv1,Asthma monitor verbal invite ...  ... ,"3"
-Y1089,Allergic asthma NEC ...  ... ,"3"
-Y108I,Intrinsic asthma - no status ... Intrinsic asthma without status asthmaticus ... ,"3"
-Y108J,Intrinsic asthma + status ... Intrinsic asthma with status asthmaticus ... ,"3"
-Y108b,Factitious asthma ...  ... ,"3"
-Y108k,Status asthmaticus ...  ... ,"3"
-Y108m,Status asthmaticus NOS ...  ... ,"3"
-Y1094,Asthmatic pulm eosinophilia ... Asthmatic pulmonary eosinophilia ... ,"3"
-Y1081,Exercise induced asthma ...  ... ,"3"
-YautK,Asthma self-manage plan review ... Asthma self-management plan review ... ,"3"
-Yauto,Num dy abs sch asthma pst 6 mn ... Number days absent from school due to asthma in past 6 month ... Number of days absent from school due to asthma in past 6 months,"3"
-Yae2D,Asthma - currently active ...  ... ,"3"
-Yaamx,Asthma monitoring status ...  ... ,"3"
-YaY1o,Mild asthma ...  ... ,"3"
-"9N1d0",Seen in school asthma clinic ...  ... ,"2"
-"9NNX.",Under care asthma spclst nurse ... Under care of asthma specialist nurse ... ,"2"
-"8H2P.","Emergency admission, asthma ...  ... ","2"
-y0EsH,Sodium cromoglicate [asthma] ...  ... ,"3"
-YMImq,Severe asthma attack ...  ... ,"3"
-YalAR,Asthma medication review ...  ... ,"3"
-YaoOR,Asthma trigger - emotion ...  ... ,"3"
-SLF7.,Antiasthmatic poisoning ...  ... ,"2"
-"38DT.",Asthma control questionnaire ...  ... ,"2"
-"663h.",Asthma - currently dormant ...  ... ,"2"
-"663n.",Asth treat compliance satisfac ... Asthma treatment compliance satisfactory ... ,"2"
-"663N1",Asthma disturbs sleep weekly ...  ... ,"2"
-"663p.",Asth treat compliance unsatisf ... Asthma treatment compliance unsatisfactory ... ,"2"
-"663P2",Asthma limits activit most day ... Asthma limits activities most days ... ,"2"
-"663q.",Asthma daytime symptoms ...  ... ,"2"
-"663r.",Asthma night symp 1-2 per mth ... Asthma causes night symptoms 1 to 2 times per month ... ,"2"
-"663s.",Asthma never causes day symps ... Asthma never causes daytime symptoms ... ,"2"
-"663y.",Num asthm exacs in past year ... Number of asthma exacerbations in past year ... ,"2"
-"66Y5.",Change in asthma managemt plan ... Change in asthma management plan ... ,"2"
-c51q.,*TAUMASTHMAN tablets ...  ... ,"2"
-"9OJ..",Asthma monitoring admin. ...  ... ,"2"
-"9OJ5.",Asthma monitor 2nd letter ...  ... ,"2"
-"9OJ9.",Asthma monitoring deleted ...  ... ,"2"
-"9OJB.",Asthma monitr invt SMS txt msg ... Asthma monitorng invit SMS (short message servce) txt messge ... Asthma monitoring invitation SMS (short message service) text message,"2"
-"9OJC.",Asthma monitrng invitatn email ... Asthma monitoring invitation email ... ,"2"
-"8791.",Further asthma - drug prevent. ...  ... ,"2"
-"8CE2.",Asthma leaflet given ...  ... ,"2"
-"8CMA0",Pat writt asthma pers act plan ... Patient has a written asthma personal action plan ... ,"2"
-"66YQ.",Asthma monitoring by nurse ...  ... ,"2"
-H33z.,Asthma unspecified ...  ... ,"2"
-H33z1,Asthma attack ...  ... ,"2"
-"173d.",Work aggravated asthma ...  ... ,"2"
-"1782.",Asthma trigger - tobacco smoke ...  ... ,"2"
-"1784.",Asthma trigger - emotion ...  ... ,"2"
-"1786.",Asthma trigger - animals ...  ... ,"2"
-"679J.",Health education - asthma ...  ... ,"2"
-"679J1",Heal educ - struct asthma disc ... Health education - structured asthma discussion ... ,"2"
-"679J2",Heal educ - struc foc ast disc ... Health education - structured patient focused asthma discuss ... Health education - structured patient focused asthma discussion,"2"
-ZVu67,[X]F hst/asthm+o chr lw resp d ... [X]Family history/asthma+other chronic lower resp diseases ... [X]Family history of asthma and other chronic lower respiratory diseases,"2"
-"38B8.",Sevr asthma exacer risk assess ... Severe asthma exacerbation risk assessment ... ,"2"
-"38QM.",Childhood Asthma Control Test ...  ... ,"2"
-Yatjz,Pat writt asthma pers act plan ... Patient has a written asthma personal action plan ... ,"3"
-Yatk0,Health educ - asthm self manag ... Health education - asthma self management ... ,"3"
-Yaamw,Asthma monitoring call ...  ... ,"3"
-Y79X6,Further asthma - drug prevent. ...  ... ,"3"
-YaS7d,Acc pois by herbal asthma mix ... Accidental poisoning by herbal asthma mixture ... ,"3"
-Yao5r,Asthma outreach clinic ...  ... ,"3"
-YauNA,Asthma limits activit most day ... Asthma limits activities most days ... ,"3"
-YauNB,RCP asth assess 3 quest score ... Royal College Physician asthma assessment 3 question score ... Royal College of Physicians asthma assessment three questions score,"3"
-YaY1p,Moderate asthma ...  ... ,"3"
-y08Cl,Sodium cromoglycate [asthma] ...  ... ,"3"
-Y7AQU,Asthma monitored ...  ... ,"3"
-Yakme,Asthma day symp 1-2 per week ... Asthma causes daytime symptoms 1 to 2 times per week ... ,"3"
-Yakmi,Asthma limits walking on flat ... Asthma limits walking on the flat ... ,"3"
-Yakmj,Num asthm exacs in past year ... Number of asthma exacerbations in past year ... ,"3"
-Yaknc,Asthma limits walking on flat ...  ... ,"3"
-Yaknk,Asthma day symp 1-2 per mth ...  ... ,"3"
-YabXR,Late-onset asthma ...  ... ,"3"
-Yalxv,Did not attend asthma clinic ... DNA - Did not attend asthma clinic ... ,"3"
-Yalxw,Did not attend asthma clinic ...  ... ,"3"
-YaW17,Asthma control step 5 ...  ... ,"3"
-YMIH2,[X]Adv react to antiasthmatics ... [X] Adverse reaction to antiasthmatics ... ,"3"
-Yab9Y,Asthma disturbs sleep weekly ...  ... ,"3"
-Yab9t,Asthma never restrcts exercise ... Asthma never restricts exercise ... ,"3"
-Y1086,Extrinsic asthma + status ... Extrinsic asthma with status asthmaticus ... ,"3"
-Y108C,Hay fever with asthma ...  ... ,"3"
-Y108H,Intrinsic asthma ...  ... ,"3"
-Y108L,Intrinsic asthma NOS ...  ... ,"3"
-Y108M,Drug-induced asthma ...  ... ,"3"
-Y108N,ASA with nasal polyps ... Aspirin-sensitive asthma with nasal polyps ... ,"3"
-Y108Q,Industrial asthma ...  ... ,"3"
-Y108T,Colophony asthma ...  ... ,"3"
-Y108g,Chronic asthmatic bronchitis ...  ... ,"3"
-Yakp4,Asthma finding ...  ... ,"3"
-YakrD,Step down chnge asthm manag pl ... Step down change in asthma management plan ... ,"3"
-YaksM,Absent work/schl due to asthma ... Absent from work or school due to asthma ... ,"3"
-Ya01q,FH: Asthma ...  ... ,"3"
-YaYRj,Asthma resolved ...  ... ,"3"
-Yaudv,Seen in school asthma clinic ...  ... ,"3"
-Yakgp,Asth treat compliance satisfac ... Asthma treatment compliance satisfactory ... ,"3"
-y07wK,Corticosteroids used in asthma ... Corticosteroids used in the treatment of asthma ... ,"3"
-YE0T3,Asthma: [extrins - atop][all++ ... Asthma: [extrins - atop][allerg][pollen][childh][+ hay fev] ... Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever],"3"
-YE0TA,(Asthma:[exerc ind][allerg N++ ... (Asthma:[exerc ind][allerg NEC][NOS]) or (allerg bronch NEC) ... (Asthma: [exercise induced] or [allergic NEC] or [NOS]) or (allergic bronchitis NEC),"3"
-YMH4k,LOA - late onset asthma ...  ... ,"3"
-YMJuy,Asthma monitor 1st letter ...  ... ,"3"
-YalO5,Asthma night-time symptoms ...  ... ,"3"
-Yaxjq,Asthma-COPD overlap syndrome ... Asthma-chronic obstructive pulmonary disease overlap syndrom ... Asthma-chronic obstructive pulmonary disease overlap syndrome,"3"
-Y79hf,"Emergency admission, asthma ...  ... ","3"
-YMIBI,[X] Advers react antiasthm NOS ... [X] Adverse reaction to antiasthmatic NOS ... ,"3"
-Ya3pZ,Seen in asthma clinic ...  ... ,"3"
-YMKmt,Emergency admission asthma ...  ... ,"3"
-Yal9n,Asthma annual review ...  ... ,"3"
-YaoNf,Asthma trigger - animals ...  ... ,"3"
-YaoOP,Asthma trigger - cold air ...  ... ,"3"
-YE1uN,(L ventric:[fail][imp func])++ ... (L ventric:[fail][imp func]) or (card asth) or (ac pulm oed) ... (Left ventricular: [failure] or [impaired function]) or (cardiac asthma) or (acute pulmonary oedema),"3"
-Y7AQM,Asthma monitor offer default ...  ... ,"3"
-Y7AQO,Asthma monitor 2nd letter ... Asthma monitoring call second letter ... ,"3"
-c7...,ASTHMA PROPHYLAXIS ...  ... ,"2"
-c71..,SODIUM CROMOGLICATE [ASTHMA] ...  ... ,"2"
-"9hA1.",Except asthma qual ind: Pt uns ... Excepted from asthma quality indicators: Patient unsuitable ... ,"2"
-"388t0",RCP asth assess 3 quest score ... Royal College Physician asthma assessment 3 question score ... Royal College of Physicians asthma assessment three questions score,"2"
-H35y6,Sequoiosis (red-cedar asthma) ...  ... ,"2"
-H35y7,Wood asthma ...  ... ,"2"
-H3B..,Asthma-COPD overlap syndrome ... Asthma-chronic obstructive pulmonary disease overlap syndrom ... Asthma-chronic obstructive pulmonary disease overlap syndrome,"2"
-"8795.",Asthma control step 2 ...  ... ,"2"
-"8797.",Asthma control step 4 ...  ... ,"2"
-"8798.",Asthma control step 5 ...  ... ,"2"
-H331z,Intrinsic asthma NOS ...  ... ,"2"
-H332.,Mixed asthma ...  ... ,"2"
-"38DV.",Mini asthma QOL questionnaire ... Mini asthma quality of life questionnaire ... ,"2"
-"663O.",Asthma not disturbing sleep ...  ... ,"2"
-"663U.",Asthma management plan given ...  ... ,"2"
-"663V3",Severe asthma ...  ... ,"2"
-"663w.",Asthm limits walk hills/stairs ... Asthma limits walking up hills or stairs ... ,"2"
-"9OJ3.",Asthma monitor offer default ...  ... ,"2"
-"9OJ7.",Asthma monitor verbal invite ...  ... ,"2"
-"9OJA.",Asthma monitoring check done ...  ... ,"2"
-"9OJZ.",Asthma monitoring admin.NOS ...  ... ,"2"
-SLF7z,Antiasthmatic poisoning NOS ...  ... ,"2"
-"12D2.",FH: Asthma ...  ... ,"2"
-"21262",Asthma resolved ...  ... ,"2"
-"1783.",Asthma trigger - warm air ...  ... ,"2"
-"178B.",Asthma trigger - exercise ...  ... ,"2"
-"68C3.",Asthma screening ...  ... ,"2"
-"661N1",Asthma self-manage plan review ... Asthma self-management plan review ... ,"2"
-"66Yp.",Asthma review RCP 3 questions ... Asthma review using Roy Colleg of Physicians three questions ... Asthma review using Royal College of Physicians three questions,"2"
-"66Yr.",Asthma cause sympt most nights ... Asthma causes symptoms most nights ... ,"2"
-"66Ys.",Asthma never caus night symptm ... Asthma never causes night symptoms ... ,"2"
-Yav78,Asthma trigger - perfume ...  ... ,"3"
-Yakr1,Change in asthma managemt plan ... Change in asthma management plan ... ,"3"
-YE0T7,Intrins asthma with: [asthma++ ... Intrins asthma with: [asthma attack] or [status asthmaticus] ... Intrinsic asthma with: [asthma attack] or [status asthmaticus],"3"
-Y73Qi,Adv react theophylline-asthma ... Adverse reaction to theophylline - asthma ... ,"3"
-Y7AQJ,Asthma clinic administration ...  ... ,"3"
-Y7AQQ,Asthma monitor verbal invite ... Asthma monitoring call verbal invite ... ,"3"
-YaYk2,Acute asthma ...  ... ,"3"
-YMGVz,Asthmatic ...  ... ,"3"
-Y79cE,Asthma screening ...  ... ,"3"
-YMIxr,Asthma prophyl medication used ... Asthma prophylactic medication used ... ,"3"
-Y7AQR,Asthma monitor phone invite ... Asthma monitoring call telephone invite ... ,"3"
-Ya0fS,[V]Family history of asthma ...  ... ,"3"
-Yany0,Work aggravated asthma ...  ... ,"3"
-YMKTZ,Asthma - exercise induced ...  ... ,"3"
-YadIe,Antiasthmatic agent ...  ... ,"3"
-YMJv0,Asthma monitor 3rd letter ...  ... ,"3"
-Yaz3b,Use of asthma symptom diary ...  ... ,"3"
-Yatao,Did not attend asthma review ...  ... ,"3"
-Y107p,Asthma ...  ... ,"3"
-Y107q,Bronchial asthma ...  ... ,"3"
-Y107y,Asthma unspecified ...  ... ,"3"
-Y1080,Asthma NOS ...  ... ,"3"
-Y10AH,Cardiac asthma ...  ... ,"3"
-YM1gM,Asthma attack ...  ... ,"3"
-YMFVN,Brittle asthma ...  ... ,"3"
-YatKp,No family history of asthma ...  ... ,"3"
-YMJPu,Extrinsic asthma - atopy ...  ... ,"3"
-Yakmb,Asthma night symp 1-2 per mth ... Asthma causes night symptoms 1 to 2 times per month ... ,"3"
-Yakmc,Asthma never causes day symps ... Asthma never causes daytime symptoms ... ,"3"
-YamDZ,Aspirin induced asthma ...  ... ,"3"
-Yayzu,Moderate acut exacrbatn asthma ... Moderate acute exacerbation of asthma ... ,"3"
-YE0Tf,Asthma: [intrinsic] or [late++ ... Asthma: [intrinsic] or [late onset] ... ,"3"
-Yab9W,Asthma never disturbs sleep ...  ... ,"3"
-Yab9n,Asthma restricts exercise ...  ... ,"3"
-Yar64,Asthma trigger - airborne dust ...  ... ,"3"
-Yabcj,Asthma never restrcts exercise ...  ... ,"3"
-Yaqbj,RCP asthma assessment ... RCP (Royal College of Physicians) asthma assessment ... ,"3"
-YaS7f,Pois herb asthma mix undet int ... Poisoning by herbal asthma mixture of undetermined intent ... ,"3"
-Yal9o,Asthma follow-up ...  ... ,"3"
-YaoNT,Asthma trigger respiratory inf ... Asthma trigger - respiratory infection ... ,"3"
-Yay76,At risk sevre asthma exacrbatn ... At risk of severe asthma exacerbation ... ,"3"
-YE15c,Respiratory disease monitori++ ... Respiratory disease monitoring (& [asthma] or [chronic]) ... ,"3"
-Yam0X,Except report: asthma qual ind ... Exception reporting: asthma quality indicators ... ,"3"
-Y7ATo,Patient in asthma study ...  ... ,"3"
-YaxVJ,Asthma monitr invt SMS txt msg ... Asthma monitorng invit SMS (short message servce) txt messge ... Asthma monitoring invitation SMS (short message service) text message,"3"
-YaY1q,Severe asthma ...  ... ,"3"
-Yakgo,Asth A&E attend since last vis ... Asthma accident and emergency attendance since last visit ... ,"3"
-YMAjI,Mixed asthma ...  ... ,"3"
-y08Cm,Ketotifen [asthma prophylaxis] ...  ... ,"3"
-Yay1R,Asthma monitrng SMS 1st invit ... Asthma monitoring SMS text message 1st invitation ... Asthma monitoring SMS (short message service) text message first invitation,"3"
-YaTh3,Family history of asthma ...  ... ,"3"
-Y7A07,Asthma limiting activities ...  ... ,"3"
-Y1087,Extrinsic asthma + attack ... Extrinsic asthma with asthma attack ... ,"3"
-Y1088,Extrinsic asthma NOS ...  ... ,"3"
-Y108A,Allergic atopic asthma ...  ... ,"3"
-Y108B,Extrinsic (atopic) asthma ...  ... ,"3"
-Y108F,Allergic non-atopic asthma ...  ... ,"3"
-Y108U,Grain worker's asthma ...  ... ,"3"
-H3300,Extrinsic asthma - no status ... Extrinsic asthma without status asthmaticus ... ,"2"
-H3301,Extrinsic asthma + status ... Extrinsic asthma with status asthmaticus ... ,"2"
-H331.,Intrinsic asthma ...  ... ,"2"
-H33zz,Asthma NOS ...  ... ,"2"
-H47y0,Detergent asthma ...  ... ,"2"
-"212G.",Asthma resolved ...  ... ,"2"
-"14Ok.",At risk of asthma ...  ... ,"2"
-"14Ok0",At risk sevre asthma exacrbatn ... At risk of severe asthma exacerbation ... ,"2"
-"9N1d.",Seen in asthma clinic ...  ... ,"2"
-"9N4Q.",Did not attend asthma clinic ... DNA - Did not attend asthma clinic ... ,"2"
-"66YP.",Asthma night-time symptoms ...  ... ,"2"
-"66Yu.",Num dy abs sch asthma pst 6 mn ... Number days absent from school due to asthma in past 6 month ... Number of days absent from school due to asthma in past 6 months,"2"
-c73..,KETOTIFEN [ASTHMA PROPHYLAX] ... KETOTIFEN [ASTHMA PROPHYLAXIS] ... ,"2"
-"8793.",Asthma control step 0 ...  ... ,"2"
-"8796.",Asthma control step 3 ...  ... ,"2"
-"1780.",Aspirin induced asthma ...  ... ,"2"
-"1787.",Asthma trigger - seasonal ...  ... ,"2"
-"1788.",Asthma trigger - cold air ...  ... ,"2"
-"1789.",Asthma trigger respiratory inf ... Asthma trigger - respiratory infection ... ,"2"
-"178A.",Asthma trigger - airborne dust ...  ... ,"2"
-"8CR0.",Asthma clin management plan ... Asthma clinical management plan ... ,"2"
-"14B4.",H/O: asthma ...  ... ,"2"
-"9OJ8.",Asthma monitor phone invite ...  ... ,"2"
-"9OJB1",Asthma monitrng SMS 2nd invit ... Asthma monitoring SMS text message 2nd invitation ... Asthma monitoring SMS (short message service) text message second invitation,"2"
-"663m.",Asth A&E attend since last vis ... Asthma accident and emergency attendance since last visit ... ,"2"
-"663N2",Asthma disturbs sleep freqntly ... Asthma disturbs sleep frequently ... ,"2"
-"663Q.",Asthma not limiting activities ...  ... ,"2"
-"663V2",Moderate asthma ...  ... ,"2"
-"663x.",Asthma limits walking on flat ... Asthma limits walking on the flat ... ,"2"
-"679J0",Health educ - asthm self manag ... Health education - asthma self management ... ,"2"
-"6AP..",Review of pt at risk of asthma ... Review of patient at risk of asthma ... ,"2"
-"38DL.",Asthma control test ...  ... ,"2"
-TJF73,AR - theophylline (asthma) ... Adverse reaction to theophylline (asthma) ... ,"2"
+READ_CODE,DESCRIPTION,VERSION
+y00BV,Taumasthman tablet ...  ... ,3
+YMLSR,Late-onset asthma (LOA) ...  ... ,3
+YE0Te,Extrinsic asthma - atopy (& ++ ... Extrinsic asthma - atopy (& pollen) ... ,3
+YaW15,Asthma control step 3 ...  ... ,3
+Y1085,Extrinsic asthma - no status ... Extrinsic asthma without status asthmaticus ... ,3
+Y108O,ASA triad - Asp-sens asthma tr ... ASA - Aspirin-sensitive asthma triad ... ,3
+Y108P,Occupational asthma ...  ... ,3
+Y108V,Sulphite-induced asthma ...  ... ,3
+Y108e,Asthmatic bronchitis ...  ... ,3
+YMH4i,Atopic asthma ...  ... ,3
+Yac9n,Further asthma - drug preventn ... Further asthma - drug prevention ... ,3
+Yaw0M,Chron asthm w fix airflw obstr ... Chronic asthma with fixed airflow obstruction ... ,3
+Yayzs,Acute severe exacerbatn asthma ... Acute severe exacerbation of asthma ... ,3
+YaqOV,RCP asthma assessment ... Royal College of Physicians asthma assessment ... ,3
+Y7Dft,Asthma society member ...  ... ,3
+YaoUx,Nocturnal asthma ...  ... ,3
+1O2..,Asthma confirmed ...  ... ,2
+YaaR3,Recent asthma management ...  ... ,3
+YatH0,Mini asthma QOL questionnaire ... Mini asthma quality of life questionnaire ... ,3
+YatH3,Under care asthma spclst nurse ... Under care of asthma specialist nurse ... ,3
+YE0T4,(Hay fever + asthma) or (ext++ ... (Hay fever + asthma) or (extr asthma without status asthmat) ... (Hay fever with asthma) or (extrinsic asthma without status asthmaticus),3
+YE0T5,Extrins asthma with: [asthma++ ... Extrins asthma with: [asthma attack] or [status asthmaticus] ... Extrinsic asthma with: [asthma attack] or [status asthmaticus],3
+Y107x,Late onset asthma ...  ... ,3
+Y109x,Wood asthma ...  ... ,3
+YadS4,Exercise-induced asthma ...  ... ,3
+YMK7F,Sequoiosis (red-cedar asthma) ...  ... ,3
+c74..,NEDOCROMIL SODIUM [ASTHMA] ...  ... ,2
+H33..,Asthma ...  ... ,2
+H330z,Extrinsic asthma NOS ...  ... ,2
+H333.,Acute exacerbation of asthma ...  ... ,2
+H334.,Brittle asthma ...  ... ,2
+H33z0,Status asthmaticus NOS ...  ... ,2
+H33z2,Late-onset asthma ...  ... ,2
+13Y4.,Asthma society member ...  ... ,2
+663d.,Emerg asthm adm since lst appt ... Emergency asthma admission since last appointment ... ,2
+663N0,Asthma causing night waking ...  ... ,2
+663V0,Occasional asthma ...  ... ,2
+388t.,RCP asthma assessment ... Royal College of Physicians asthma assessment ... ,2
+173c.,Occupational asthma ...  ... ,2
+Yaxjr,Asthma-COPD overlap syndrome ... Asthma-chronic obstructive pulmonary disease overlap syndrom ... ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,3
+YamDq,Aspirin-induced asthma ...  ... ,3
+y01tJ,Nedocromil sodium [asthma] ...  ... ,3
+Y7A05,Asthma disturbing sleep ...  ... ,3
+Yaks4,Change in asthma managemt plan ...  ... ,3
+YaY9k,Acute exacerbation of asthma ...  ... ,3
+YMK5x,Asthma - cardiac ...  ... ,3
+Yayzv,Life thrtng acut excbtn asthma ... Life threatening acute exacerbation of asthma ... ,3
+Yal1g,Absent work/schl due to asthma ...  ... ,3
+Y1084,Allergic asthma ...  ... ,3
+Y108E,Pollen asthma ...  ... ,3
+Y108G,Non-allergic asthma ...  ... ,3
+Y108K,Intrinsic asthma + attack ... Intrinsic asthma with asthma attack ... ,3
+Y108R,Detergent asthma ...  ... ,3
+Y108S,Baker's asthma ...  ... ,3
+Y108l,Acute severe asthma ...  ... ,3
+Ya3Xw,EIA - Exercise-induced asthma ...  ... ,3
+YaknY,Asthma never causes day symps ...  ... ,3
+YaknZ,Asthma day symp 1-2 per week ...  ... ,3
+Ya3Lr,Exacerbation of asthma ...  ... ,3
+Yam1U,Except asthma qual ind: Pt uns ...  ... ,3
+Yam1W,Excep asthma qual ind: Inf dis ...  ... ,3
+Y107w,Childhood asthma ...  ... ,3
+YaW13,Asthma control step 1 ...  ... ,3
+YaW16,Asthma control step 4 ...  ... ,3
+YMH4l,Asthma attack NOS ...  ... ,3
+YaVzG,Asthma control steps ...  ... ,3
+YaXzJ,Asthma leaflet given ...  ... ,3
+YMLE1,FH: asthma ...  ... ,3
+YaY1n,Occasional asthma ...  ... ,3
+YE0T6,(Intrinsic asthma) or (late ++ ... (Intrinsic asthma) or (late onset asthma) ... ,3
+YE0T8,(Severe asthma attack) or (s++ ... (Severe asthma attack) or (status asthmaticus NOS) ... ,3
+H3120,Chronic asthmatic bronchitis ...  ... ,2
+H330.,Extrinsic (atopic) asthma ...  ... ,2
+H3310,Intrinsic asthma - no status ... Intrinsic asthma without status asthmaticus ... ,2
+H3311,Intrinsic asthma + status ... Intrinsic asthma with status asthmaticus ... ,2
+H335.,Chron asthm w fix airflw obstr ... Chronic asthma with fixed airflow obstruction ... ,2
+8794.,Asthma control step 1 ...  ... ,2
+663j.,Asthma - currently active ...  ... ,2
+663N.,Asthma disturbing sleep ...  ... ,2
+663V1,Mild asthma ...  ... ,2
+66YC.,Absent work/schl due to asthma ... Absent from work or school due to asthma ... ,2
+173A.,Exercise induced asthma ...  ... ,2
+YaaR6,Emerg asthm adm since lst appt ... Emergency asthma admission since last appointment ... ,3
+YaW14,Asthma control step 2 ...  ... ,3
+YaW1r,Asthma control step 0 ...  ... ,3
+Yaleb,Asthma confirmed ...  ... ,3
+YaknX,Asthma night symp 1-2 per mth ...  ... ,3
+Yakna,Asthma daytime symps most days ...  ... ,3
+Yan3c,Does not have asthma man plan ...  ... ,3
+YE0T9,Asthma attack (& NOS) ...  ... ,3
+YE0Tg,Asthma: [NOS] or [attack] ...  ... ,3
+Yam0Y,Except report: asthma qual ind ...  ... ,3
+Yakgq,Asth treat compliance unsatisf ... Asthma treatment compliance unsatisfactory ... ,3
+Yakgr,Asthma daytime symptoms ...  ... ,3
+Yae2E,Asthma - currently dormant ...  ... ,3
+Y7A06,Asthma not disturbing sleep ...  ... ,3
+Yay77,Sevr asthma exacer risk assess ... Severe asthma exacerbation risk assessment ... ,3
+Yab9V,Asthma causing night waking ...  ... ,3
+Y1089,Allergic asthma NEC ...  ... ,3
+Y108I,Intrinsic asthma - no status ... Intrinsic asthma without status asthmaticus ... ,3
+Y108J,Intrinsic asthma + status ... Intrinsic asthma with status asthmaticus ... ,3
+Y108b,Factitious asthma ...  ... ,3
+Y108k,Status asthmaticus ...  ... ,3
+Y108m,Status asthmaticus NOS ...  ... ,3
+Y1094,Asthmatic pulm eosinophilia ... Asthmatic pulmonary eosinophilia ... ,3
+Y1081,Exercise induced asthma ...  ... ,3
+Yauto,Num dy abs sch asthma pst 6 mn ... Number days absent from school due to asthma in past 6 month ... Number of days absent from school due to asthma in past 6 months,3
+Yae2D,Asthma - currently active ...  ... ,3
+YaY1o,Mild asthma ...  ... ,3
+9NNX.,Under care asthma spclst nurse ... Under care of asthma specialist nurse ... ,2
+8H2P.,"Emergency admission, asthma ...  ... ",2
+y0EsH,Sodium cromoglicate [asthma] ...  ... ,3
+YMImq,Severe asthma attack ...  ... ,3
+663h.,Asthma - currently dormant ...  ... ,2
+663n.,Asth treat compliance satisfac ... Asthma treatment compliance satisfactory ... ,2
+663p.,Asth treat compliance unsatisf ... Asthma treatment compliance unsatisfactory ... ,2
+663q.,Asthma daytime symptoms ...  ... ,2
+663y.,Num asthm exacs in past year ... Number of asthma exacerbations in past year ... ,2
+c51q.,*TAUMASTHMAN tablets ...  ... ,2
+8791.,Further asthma - drug prevent. ...  ... ,2
+8CE2.,Asthma leaflet given ...  ... ,2
+8CMA0,Pat writt asthma pers act plan ... Patient has a written asthma personal action plan ... ,2
+H33z.,Asthma unspecified ...  ... ,2
+H33z1,Asthma attack ...  ... ,2
+173d.,Work aggravated asthma ...  ... ,2
+38B8.,Sevr asthma exacer risk assess ... Severe asthma exacerbation risk assessment ... ,2
+Yatjz,Pat writt asthma pers act plan ... Patient has a written asthma personal action plan ... ,3
+Y79X6,Further asthma - drug prevent. ...  ... ,3
+YauNB,RCP asth assess 3 quest score ... Royal College Physician asthma assessment 3 question score ... Royal College of Physicians asthma assessment three questions score,3
+YaY1p,Moderate asthma ...  ... ,3
+y08Cl,Sodium cromoglycate [asthma] ...  ... ,3
+Yakmj,Num asthm exacs in past year ... Number of asthma exacerbations in past year ... ,3
+Yaknk,Asthma day symp 1-2 per mth ...  ... ,3
+YabXR,Late-onset asthma ...  ... ,3
+YaW17,Asthma control step 5 ...  ... ,3
+Y1086,Extrinsic asthma + status ... Extrinsic asthma with status asthmaticus ... ,3
+Y108C,Hay fever with asthma ...  ... ,3
+Y108H,Intrinsic asthma ...  ... ,3
+Y108L,Intrinsic asthma NOS ...  ... ,3
+Y108M,Drug-induced asthma ...  ... ,3
+Y108N,ASA with nasal polyps ... Aspirin-sensitive asthma with nasal polyps ... ,3
+Y108Q,Industrial asthma ...  ... ,3
+Y108T,Colophony asthma ...  ... ,3
+Y108g,Chronic asthmatic bronchitis ...  ... ,3
+Yakp4,Asthma finding ...  ... ,3
+YaksM,Absent work/schl due to asthma ... Absent from work or school due to asthma ... ,3
+Ya01q,FH: Asthma ...  ... ,3
+Yakgp,Asth treat compliance satisfac ... Asthma treatment compliance satisfactory ... ,3
+y07wK,Corticosteroids used in asthma ... Corticosteroids used in the treatment of asthma ... ,3
+YE0T3,Asthma: [extrins - atop][all++ ... Asthma: [extrins - atop][allerg][pollen][childh][+ hay fev] ... Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever],3
+YE0TA,(Asthma:[exerc ind][allerg N++ ... (Asthma:[exerc ind][allerg NEC][NOS]) or (allerg bronch NEC) ... (Asthma: [exercise induced] or [allergic NEC] or [NOS]) or (allergic bronchitis NEC),3
+YMH4k,LOA - late onset asthma ...  ... ,3
+YalO5,Asthma night-time symptoms ...  ... ,3
+Yaxjq,Asthma-COPD overlap syndrome ... Asthma-chronic obstructive pulmonary disease overlap syndrom ... Asthma-chronic obstructive pulmonary disease overlap syndrome,3
+Y79hf,"Emergency admission, asthma ...  ... ",3
+YMKmt,Emergency admission asthma ...  ... ,3
+c71..,SODIUM CROMOGLICATE [ASTHMA] ...  ... ,2
+388t0,RCP asth assess 3 quest score ... Royal College Physician asthma assessment 3 question score ... Royal College of Physicians asthma assessment three questions score,2
+H35y6,Sequoiosis (red-cedar asthma) ...  ... ,2
+H35y7,Wood asthma ...  ... ,2
+H3B..,Asthma-COPD overlap syndrome ... Asthma-chronic obstructive pulmonary disease overlap syndrom ... Asthma-chronic obstructive pulmonary disease overlap syndrome,2
+8795.,Asthma control step 2 ...  ... ,2
+8797.,Asthma control step 4 ...  ... ,2
+8798.,Asthma control step 5 ...  ... ,2
+H331z,Intrinsic asthma NOS ...  ... ,2
+H332.,Mixed asthma ...  ... ,2
+38DV.,Mini asthma QOL questionnaire ... Mini asthma quality of life questionnaire ... ,2
+663O.,Asthma not disturbing sleep ...  ... ,2
+663V3,Severe asthma ...  ... ,2
+12D2.,FH: Asthma ...  ... ,2
+YE0T7,Intrins asthma with: [asthma++ ... Intrins asthma with: [asthma attack] or [status asthmaticus] ... Intrinsic asthma with: [asthma attack] or [status asthmaticus],3
+YaYk2,Acute asthma ...  ... ,3
+YMGVz,Asthmatic ...  ... ,3
+Yany0,Work aggravated asthma ...  ... ,3
+YMKTZ,Asthma - exercise induced ...  ... ,3
+Y107p,Asthma ...  ... ,3
+Y107q,Bronchial asthma ...  ... ,3
+Y107y,Asthma unspecified ...  ... ,3
+Y1080,Asthma NOS ...  ... ,3
+YM1gM,Asthma attack ...  ... ,3
+YMFVN,Brittle asthma ...  ... ,3
+YMJPu,Extrinsic asthma - atopy ...  ... ,3
+YamDZ,Aspirin induced asthma ...  ... ,3
+Yayzu,Moderate acut exacrbatn asthma ... Moderate acute exacerbation of asthma ... ,3
+YE0Tf,Asthma: [intrinsic] or [late++ ... Asthma: [intrinsic] or [late onset] ... ,3
+Yabcj,Asthma never restrcts exercise ...  ... ,3
+Yaqbj,RCP asthma assessment ... RCP (Royal College of Physicians) asthma assessment ... ,3
+YaY1q,Severe asthma ...  ... ,3
+YMAjI,Mixed asthma ...  ... ,3
+Y1087,Extrinsic asthma + attack ... Extrinsic asthma with asthma attack ... ,3
+Y1088,Extrinsic asthma NOS ...  ... ,3
+Y108A,Allergic atopic asthma ...  ... ,3
+Y108B,Extrinsic (atopic) asthma ...  ... ,3
+Y108F,Allergic non-atopic asthma ...  ... ,3
+Y108U,Grain worker's asthma ...  ... ,3
+H3300,Extrinsic asthma - no status ... Extrinsic asthma without status asthmaticus ... ,2
+H3301,Extrinsic asthma + status ... Extrinsic asthma with status asthmaticus ... ,2
+H331.,Intrinsic asthma ...  ... ,2
+H33zz,Asthma NOS ...  ... ,2
+H47y0,Detergent asthma ...  ... ,2
+66YP.,Asthma night-time symptoms ...  ... ,2
+66Yu.,Num dy abs sch asthma pst 6 mn ... Number days absent from school due to asthma in past 6 month ... Number of days absent from school due to asthma in past 6 months,2
+8793.,Asthma control step 0 ...  ... ,2
+8796.,Asthma control step 3 ...  ... ,2
+1780.,Aspirin induced asthma ...  ... ,2
+663V2,Moderate asthma ...  ... ,2
