@@ -1,0 +1,149 @@
+Code,Description
+e752.,Referral/process-of-care event code (e7xx series)
+H33z0,Asthma unspecified
+27Z,OPCS-4-style procedure or event code
+10Z,OPCS-4-style procedure or event code
+fe66.,"'fe' event series, a respiratory follow-up/monitoring marker"
+fe6f.,"'fe' event series, a respiratory follow-up/monitoring marker"
+e684.,"'e68x' series, a clinical encounter/assessment code"
+fe7z.,'fe7' event series
+fe71.,'fe7' event series
+fe6j.,'fe6' event series
+e31i.,"'e31' series, respiratory symptom/finding code"
+01A,OPCS-4-style procedure or admission-type code
+e315.,"'e31' series, respiratory symptom/finding code"
+eg6v.,'eg6' series
+888,Sentinel/placeholder numeric value (e.g. 'not applicable' or missing-data flag) rather than a clinical code
+07Z,OPCS-4-style procedure or event code
+16Z,OPCS-4-style procedure or event code
+e758.,"'e75x' series, an exacerbation/attack episode marker"
+02Z,OPCS-4-style procedure or event code
+21Z,OPCS-4-style procedure or event code
+e31h.,"'e31' series, respiratory symptom/finding code"
+e6dv.,'e6d' series
+02A,OPCS-4-style procedure or admission-type code
+e75x.,"'e75x' series, an exacerbation/attack episode marker"
+H333.,Chronic asthma with fixed airflow obstruction
+egC1.,'egC' series
+fe6g.,'fe6' event series
+e311.,"'e31' series, respiratory symptom/finding code"
+fe7x.,'fe7' event series
+e617.,'e61x' series
+e312.,"'e31' series, respiratory symptom/finding code"
+07E,OPCS-4-style procedure or event code
+29Z,OPCS-4-style procedure or event code
+fe6h.,'fe6' event series
+e685.,"'e68x' series, a clinical encounter/assessment code"
+e61B.,'e61x' series
+14A,OPCS-4-style procedure or admission-type code
+08Z,OPCS-4-style procedure or event code
+egC5.,'egC' series
+e69i.,'e69x' series
+19Z,OPCS-4-style procedure or event code
+e69a.,'e69x' series
+e31..,"'e31' series root code, respiratory symptom/finding category"
+eg64.,'eg6' series
+14Z,OPCS-4-style procedure or event code
+J46,Status asthmaticus (ICD-10)
+24Z,OPCS-4-style procedure or event code
+17B,OPCS-4-style procedure or admission-type code
+e339.,"'e33x' series, asthma-related given proximity to H33 asthma chapter numbering"
+31Z,OPCS-4-style procedure or event code
+15A,OPCS-4-style procedure or admission-type code
+e91n.,'e91x' series
+e69f.,'e69x' series
+06D,OPCS-4-style procedure or admission-type code
+04Z,OPCS-4-style procedure or event code
+e927.,'e92x' series
+07B,OPCS-4-style procedure or admission-type code
+15Z,OPCS-4-style procedure or event code
+egD1.,'egD' series
+fe6k.,'fe6' event series
+e75G.,"'e75x' series, an exacerbation/attack episode marker"
+e686.,"'e68x' series, a clinical encounter/assessment code"
+29A,OPCS-4-style procedure or admission-type code
+04B,OPCS-4-style procedure or admission-type code
+06Z,OPCS-4-style procedure or event code
+12A,OPCS-4-style procedure or admission-type code
+16B,OPCS-4-style procedure or admission-type code
+fe6d.,'fe6' event series
+e316.,"'e31' series, respiratory symptom/finding code"
+fe6c.,'fe6' event series
+99Z,OPCS-4-style procedure or event code (often a catch-all/unspecified code)
+eg67.,'eg6' series
+30Z,OPCS-4-style procedure or event code
+e913.,'e91x' series
+e69b.,'e69x' series
+eg6w.,'eg6' series
+e75E.,"'e75x' series, an exacerbation/attack episode marker"
+97Z,OPCS-4-style procedure or event code
+e69h.,'e69x' series
+eg6x.,'eg6' series
+20C,OPCS-4-style procedure or admission-type code
+fe7y.,'fe7' event series
+e757.,"'e75x' series, an exacerbation/attack episode marker"
+egD2.,'egD' series
+10A,OPCS-4-style procedure or admission-type code
+e6h3.,'e6h' series
+e692.,'e69x' series
+18Z,OPCS-4-style procedure or event code
+H3301,Extrinsic asthma with status asthmaticus
+fe6z.,'fe6' event series
+fe62.,'fe6' event series
+e618.,'e61x' series
+H33z1,Childhood asthma
+fe6i.,'fe6' event series
+fe61.,'fe6' event series
+eg65.,'eg6' series
+13A,OPCS-4-style procedure or admission-type code
+03B,OPCS-4-style procedure or admission-type code
+28Z,OPCS-4-style procedure or event code
+e921.,'e92x' series
+e694.,'e69x' series
+eg61.,'eg6' series
+12B,OPCS-4-style procedure or admission-type code
+e6dw.,'e6d' series
+e6d6.,'e6d' series
+e6d7.,'e6d' series
+e75t.,"'e75x' series, an exacerbation/attack episode marker"
+e69k.,'e69x' series
+01D,OPCS-4-style procedure or admission-type code
+17A,OPCS-4-style procedure or admission-type code
+H3311,Intrinsic asthma
+14B,OPCS-4-style procedure or admission-type code
+fe65.,'fe6' event series
+e693.,'e69x' series
+04A,OPCS-4-style procedure or admission-type code
+fe72.,'fe7' event series
+e69j.,'e69x' series
+01Z,OPCS-4-style procedure or event code
+fe6a.,'fe6' event series
+03C,OPCS-4-style procedure or admission-type code
+17Z,OPCS-4-style procedure or event code
+e61A.,'e61x' series
+J45,Asthma (ICD-10)
+fe73.,'fe7' event series
+e6h1.,'e6h' series
+e699.,'e69x' series
+02B,OPCS-4-style procedure or admission-type code
+29B,OPCS-4-style procedure or admission-type code
+98Z,OPCS-4-style procedure or event code
+e698.,'e69x' series
+e687.,"'e68x' series, a clinical encounter/assessment code"
+e69g.,'e69x' series
+fe6..,'fe6' series root code
+egC2.,'egC' series
+25Z,OPCS-4-style procedure or event code
+e69l.,'e69x' series
+31A,OPCS-4-style procedure or admission-type code
+e75D.,"'e75x' series, an exacerbation/attack episode marker"
+e914.,'e91x' series
+fe6e.,'fe6' event series
+06A,OPCS-4-style procedure or admission-type code
+e614.,'e61x' series
+09D,OPCS-4-style procedure or admission-type code
+e31T.,"'e31' series, respiratory symptom/finding code"
+20Z,OPCS-4-style procedure or event code
+e691.,'e69x' series
+13Z,OPCS-4-style procedure or event code
+egC4.,'egC' series
